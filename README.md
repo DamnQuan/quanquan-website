@@ -1,6 +1,6 @@
 # QuanQuan 的个人网站
 
-初二全栈开发者 QuanQuan 的个人主页，Vue 3 + Vite 构建。
+初三全栈开发者 QuanQuan 的个人主页，Vue 3 + Vite 构建。
 
 ## 技术栈
 
